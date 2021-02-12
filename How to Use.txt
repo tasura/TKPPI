@@ -1,0 +1,5 @@
+In order to use this script, python, selenium and the chromedriver(included in the folder) must be on your device. 
+The chromedriver can operate as long as it is in the same folder as the script, but selenium requires a special method of installation, the steps of which can be found here: https://selenium-python.readthedocs.io/installation.html#downloading-python-bindings-for-selenium
+
+Afterwards you can run the script with your IDE of choice or via the command shell.
+
